@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uniqueisme1997
+- 👋 Hi, I’m technoteen xdx
 - 👀 I’m interested in developing a cool quiz platform for kids
 - 📫 How to reach me unique.is.me.1997@gmail.com
 
