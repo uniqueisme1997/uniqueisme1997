@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uniqueisme1997
-- 👀 I’m interested in developing a website for my business 
+- 👀 I’m interested in developing a cool quiz platform for kids
 - 📫 How to reach me unique.is.me.1997@gmail.com
 
 <!---
